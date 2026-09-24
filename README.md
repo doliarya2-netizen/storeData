@@ -130,6 +130,9 @@ This dashboard can be used to answer questions such as:
 ## 📸 Dashboard Preview
 
 
+![Dashboard](dashboardStoreData.png)
+
+![overview](overviewStoreData.png)
 
 ##
 
